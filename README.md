@@ -1,6 +1,7 @@
 ## Daniel Spaseski 223223
 ### Control Flow Graph
-![Lab2_223223CFG_1 drawio](https://github.com/DanielSpaseski/SI_2024_lab2_223223/assets/138517620/67b5fd91-8c83-4bea-8611-a74617bc6e09)
+![Lab2_223223CFG_1 drawio](https://github.com/DanielSpaseski/SI_2024_lab2_223223/assets/138517620/cdf900ef-cabf-4bb4-ae68-701fb81e57ae)
+
 
 ### Цикломатска комплексност
 Цикломатската комплексност на овој код е 10. Ја добив преку формулата Р+1, Р=9 е бројот на предикатни јазли.
